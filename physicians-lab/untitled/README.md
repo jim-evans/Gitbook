@@ -2,7 +2,7 @@
 description: Dictionary
 ---
 
-# Untitled
+# Definitions Table
 
 | Term | Nickname/Abbreviations | Data Type | Dimension/Measure | Formula | Example | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
