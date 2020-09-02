@@ -2,8 +2,7 @@
 
 * [Initial page](README.md)
 
-## Operations
+## Physicians Lab
 
-* [Appointments](operations/appointments.md)
-* [Dynamics](operations/dynamics.md)
+* [Untitled](physicians-lab/untitled.md)
 
